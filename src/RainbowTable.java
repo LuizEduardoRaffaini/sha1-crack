@@ -46,7 +46,7 @@ public class RainbowTable
         table.generate();
 
         // Perform a lookup
-        String pass = table.lookup("86f7e437faa5a7fce15d1ddcb9eaeaea377667b8");
+        String pass = table.lookup("8");
         System.out.println("lookup: " + pass);
     }
 
